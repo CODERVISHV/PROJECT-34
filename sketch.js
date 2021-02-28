@@ -3,8 +3,8 @@ var database
 var food,foodstock
 
 function preload(){
-  dogimg=loadImage("images/dogImg.png")
-  dogimg2=loadImage("images/dogImg1.png")
+  dogimg=loadImage("dogImg.png")
+  dogimg2=loadImage("dogImg1.png")
 }
 
 function setup(){
